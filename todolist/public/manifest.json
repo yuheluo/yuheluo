@@ -1,0 +1,19 @@
+{
+    "name": "Notebook",
+    "short_name": "todolist",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "white",
+    "description": "A test Application for the module of Dynamic Web Technologies.",
+    "icons": [
+    
+        {
+            "src": "public/1075431_note_pen_compose_marker_notepad_icon.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+            }
+        
+    ]
+    }
